@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jay.ji.jaroen@gmail.com
+	name = jiraporn jaroensutiyotin
